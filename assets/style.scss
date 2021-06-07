@@ -463,11 +463,12 @@ body:after {
 
 .page h1{
   font-family: $base-font-family;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
+  color:#ab2626
 }
 
 .author_title{
