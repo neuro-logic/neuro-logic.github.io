@@ -1,0 +1,36 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+$base-font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
+$base-font-size:   13pt;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.75;
+
+$mono-font-family: 'Source Code Pro', Menlo, Monaco, Inconsolata;
+
+$text-color:       hsl(0, 0%, 10%);
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
