@@ -21,7 +21,7 @@ avatar: /images/neurologic.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: neurologic.blog@gmail.com
+  email: neurologic2021@gmail.com
   facebook:
   flickr:
   github: neuro-logic/neuro-logic.github.io
@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: 
+  twitter: neuro-logic
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -44,7 +44,7 @@ disqus:
 google_analytics: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+google_analytics_ga4: G-2YGCHGG59Z
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
